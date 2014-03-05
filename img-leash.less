@@ -1,0 +1,14 @@
+img {
+  // Responsive images (ensure images don't scale beyond their parents)
+  display: inline-block;
+  max-width: 100%;
+  height: auto;
+
+  vertical-align: middle;
+  border: 0;
+  -ms-interpolation-mode: bicubic;
+
+  .ie8 & {
+    width: auto;
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "img-leash",
+  "repo": "jkenlooper/img-leash",
+  "description": "CSS component to prevent img from escaping it's parent",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "img-leash.css"
+  ]
+}
